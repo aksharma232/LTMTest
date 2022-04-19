@@ -1,0 +1,7 @@
+2021-09-23 16:17:57,180  INFO [main] log4jexample:46 - launching chrome broswer
+2021-09-23 16:18:42,440  INFO [main] log4jexample:67 - Selecting TC
+2021-09-23 16:18:51,534  INFO [main] log4jexample:91 - Clicked on Connection Manager
+2021-09-23 16:18:51,534  WARN [main] log4jexample:93 - Hey this just a warning message
+2021-09-23 16:18:51,535 FATAL [main] log4jexample:94 - hey this is just fatal error message
+2021-09-23 16:18:51,535 DEBUG [main] log4jexample:95 - this is debug message
+2021-09-23 16:19:15,343  INFO [main] log4jexample:174 - ****************************** Browser is closed *****************************************

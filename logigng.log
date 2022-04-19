@@ -1,0 +1,628 @@
+2021-09-25 23:23:59 INFO  log4j==:31 - Send Message testing
+2021-09-25 23:24:10 INFO  log4j==:39 - Selecting TC
+2021-09-25 23:24:20 INFO  log4j==:47 - Right click on TC
+2021-09-25 23:24:27 INFO  log4j==:63 - Message Send on TC
+2021-09-25 23:26:04 INFO  log4j==:46 - launching chrome broswer
+2021-09-25 23:26:36 INFO  log4j==:56 - Browser Connection testing
+2021-09-25 23:26:43 INFO  log4j==:187 - ****************************** Browser is closed *****************************************
+2021-09-25 23:27:38 INFO  log4j==:46 - launching chrome broswer
+2021-09-25 23:28:10 INFO  log4j==:56 - Browser Connection testing
+2021-09-25 23:28:23 INFO  log4j==:70 - Selecting TC
+2021-09-25 23:28:32 INFO  log4j==:95 - Clicked on Connection Manager
+2021-09-25 23:29:20 INFO  log4j==:31 - Send Message testing
+2021-09-25 23:29:31 INFO  log4j==:39 - Selecting TC
+2021-09-25 23:29:41 INFO  log4j==:47 - Right click on TC
+2021-09-25 23:29:48 INFO  log4j==:63 - Message Send on TC
+2021-09-25 23:31:26 INFO  log4j==:46 - launching chrome broswer
+2021-09-25 23:31:57 INFO  log4j==:56 - Browser Connection testing
+2021-09-25 23:32:10 INFO  log4j==:70 - Selecting TC
+2021-09-25 23:32:19 INFO  log4j==:95 - Clicked on Connection Manager
+2021-09-25 23:32:22 INFO  log4j==:114 - Selecting Browser
+2021-09-25 23:32:24 INFO  log4j==:130 - Normal Connection Created
+2021-09-25 23:32:32 INFO  log4j==:142 - Selecting Browser
+2021-09-25 23:32:38 INFO  log4j==:162 - Kisok Browser connection created
+2021-09-25 23:32:42 INFO  log4j==:172 - TaskManagemnet click
+2021-09-25 23:32:47 INFO  log4j==:182 - Screenshot taken
+2021-09-25 23:32:49 INFO  log4j==:187 - ****************************** Browser is closed *****************************************
+2021-09-26 15:26:01 INFO  log4j==:25 - launching chrome broswer
+2021-09-26 15:32:31 INFO  log4j==:26 - launching chrome broswer
+2021-09-26 15:39:14 INFO  log4j==:26 - launching chrome broswer
+2021-09-26 15:41:28 INFO  log4j==:26 - launching chrome broswer
+2021-09-26 15:44:58 INFO  log4j==:26 - launching chrome broswer
+2021-09-26 15:48:52 INFO  log4j==:27 - launching chrome broswer
+2021-09-26 15:50:22 INFO  log4j==:27 - launching chrome broswer
+2021-09-26 15:53:08 INFO  log4j==:27 - launching chrome broswer
+2021-09-26 15:56:10 INFO  log4j==:27 - launching chrome broswer
+2021-09-26 16:01:12 INFO  log4j==:29 - launching chrome broswer
+2021-09-26 16:04:58 INFO  log4j==:29 - launching chrome broswer
+2021-09-26 16:10:17 INFO  log4j==:29 - launching chrome broswer
+2021-09-26 16:13:05 INFO  log4j==:29 - launching chrome broswer
+2021-09-26 16:14:40 INFO  log4j==:29 - launching chrome broswer
+2021-09-26 16:16:22 INFO  log4j==:29 - launching chrome broswer
+2021-09-26 16:18:20 INFO  log4j==:29 - launching chrome broswer
+2021-09-26 16:42:45 INFO  log4j==:30 - launching chrome broswer
+2021-12-10 13:25:05 INFO  log4j==:31 - Send Message testing
+2021-12-10 13:25:16 INFO  log4j==:39 - Selecting TC
+2021-12-10 13:26:55 INFO  log4j==:31 - Send Message testing
+2021-12-10 13:27:08 INFO  log4j==:39 - Selecting TC
+2021-12-10 13:27:19 INFO  log4j==:47 - Right click on TC
+2021-12-10 13:27:25 INFO  log4j==:63 - Message Send on TC
+2021-12-10 15:07:18 INFO  log4j==:31 - Send Message testing
+2021-12-10 15:07:31 INFO  log4j==:39 - Selecting TC
+2021-12-10 15:07:42 INFO  log4j==:47 - Right click on TC
+2021-12-10 15:07:49 INFO  log4j==:63 - Message Send on TC
+2021-12-10 15:07:51 INFO  log4j==:69 - Clicked on close button
+2021-12-10 15:12:45 INFO  log4j==:31 - Send Message testing
+2021-12-10 15:12:58 INFO  log4j==:39 - Selecting TC
+2021-12-10 15:13:08 INFO  log4j==:47 - Right click on TC
+2021-12-10 15:13:15 INFO  log4j==:63 - Message Send on TC
+2021-12-10 15:13:17 INFO  log4j==:69 - Clicked on close button
+2021-12-10 15:18:39 INFO  log4j==:54 - TC Selected
+2021-12-10 15:25:15 INFO  log4j==:54 - TC Selected
+2021-12-10 15:31:53 INFO  log4j==:54 - TC Selected
+2021-12-10 15:33:59 INFO  log4j==:54 - TC Selected
+2021-12-10 15:38:23 INFO  log4j==:54 - TC Selected
+2021-12-12 10:23:51 INFO  log4j==:54 - TC Selected
+2021-12-12 10:25:51 INFO  log4j==:54 - TC Selected
+2021-12-12 10:27:33 INFO  log4j==:54 - TC Selected
+2022-02-07 13:25:36 INFO  log4j==:43 - launching chrome broswer
+2022-02-07 13:26:21 INFO  log4j==:53 - Browser Connection testing
+2022-02-07 13:26:36 INFO  log4j==:173 - ****************************** Browser is closed *****************************************
+2022-02-07 13:30:35 INFO  log4j==:43 - launching chrome broswer
+2022-02-07 13:31:18 INFO  log4j==:53 - Browser Connection testing
+2022-02-07 13:31:33 INFO  log4j==:173 - ****************************** Browser is closed *****************************************
+2022-02-08 11:45:18 INFO  log4j==:43 - launching chrome broswer
+2022-02-08 11:46:06 INFO  log4j==:53 - Browser Connection testing
+2022-02-08 11:46:24 INFO  log4j==:173 - ****************************** Browser is closed *****************************************
+2022-02-08 11:46:35 INFO  log4j==:43 - launching chrome broswer
+2022-02-08 11:47:18 INFO  log4j==:53 - Browser Connection testing
+2022-02-08 11:47:44 INFO  log4j==:67 - Selecting TC
+2022-02-08 11:48:23 INFO  log4j==:173 - ****************************** Browser is closed *****************************************
+2022-02-08 11:52:10 INFO  log4j==:43 - launching chrome broswer
+2022-02-08 11:52:54 INFO  log4j==:53 - Browser Connection testing
+2022-02-08 11:53:20 INFO  log4j==:67 - Selecting TC
+2022-02-08 11:53:28 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-08 11:53:59 INFO  log4j==:175 - ****************************** Browser is closed *****************************************
+2022-02-09 16:44:04 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 16:44:50 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 16:45:15 INFO  log4j==:67 - Selecting TC
+2022-02-09 16:45:23 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-09 16:45:59 INFO  log4j==:175 - ****************************** Browser is closed *****************************************
+2022-02-09 16:46:20 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 16:47:02 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 16:47:15 INFO  log4j==:175 - ****************************** Browser is closed *****************************************
+2022-02-09 20:55:15 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 20:55:57 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 20:56:10 INFO  log4j==:175 - ****************************** Browser is closed *****************************************
+2022-02-09 20:57:45 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 20:58:27 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 20:58:50 INFO  log4j==:67 - Selecting TC
+2022-02-09 20:58:58 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-09 20:59:29 INFO  log4j==:175 - ****************************** Browser is closed *****************************************
+2022-02-09 21:29:52 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 21:30:34 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 21:30:59 INFO  log4j==:67 - Selecting TC
+2022-02-09 21:31:07 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-09 21:31:08 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-09 21:31:38 INFO  log4j==:175 - ****************************** Browser is closed *****************************************
+2022-02-09 21:43:55 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 21:44:37 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 21:45:02 INFO  log4j==:67 - Selecting TC
+2022-02-09 21:45:10 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-09 21:45:11 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-09 21:45:42 INFO  log4j==:175 - ****************************** Browser is closed *****************************************
+2022-02-09 21:47:18 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 21:48:00 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 21:48:23 INFO  log4j==:67 - Selecting TC
+2022-02-09 21:48:31 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-09 21:48:32 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-09 21:49:03 INFO  log4j==:175 - ****************************** Browser is closed *****************************************
+2022-02-09 21:50:55 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 21:51:37 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 21:52:00 INFO  log4j==:67 - Selecting TC
+2022-02-09 21:52:08 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-09 21:52:09 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-09 21:52:41 INFO  log4j==:175 - ****************************** Browser is closed *****************************************
+2022-02-09 21:54:40 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 21:55:22 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 21:55:45 INFO  log4j==:67 - Selecting TC
+2022-02-09 21:55:53 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-09 21:55:54 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-09 21:55:58 INFO  log4j==:175 - ****************************** Browser is closed *****************************************
+2022-02-09 22:02:22 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 22:03:03 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 22:03:26 INFO  log4j==:67 - Selecting TC
+2022-02-09 22:03:34 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-09 22:03:35 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-09 22:03:36 INFO  log4j==:96 - Connection creat new button
+2022-02-09 22:03:36 INFO  log4j==:100 - Clicked Connection creat new button
+2022-02-09 22:03:37 INFO  log4j==:179 - ****************************** Browser is closed *****************************************
+2022-02-09 22:07:36 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 22:08:18 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 22:08:41 INFO  log4j==:67 - Selecting TC
+2022-02-09 22:08:49 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-09 22:08:50 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-09 22:08:51 INFO  log4j==:96 - Connection creat new button
+2022-02-09 22:08:51 INFO  log4j==:100 - Clicked Connection creat new button
+2022-02-09 22:08:54 INFO  log4j==:181 - ****************************** Browser is closed *****************************************
+2022-02-09 22:09:46 INFO  log4j==:43 - launching chrome broswer
+2022-02-09 22:10:28 INFO  log4j==:53 - Browser Connection testing
+2022-02-09 22:10:51 INFO  log4j==:67 - Selecting TC
+2022-02-09 22:10:59 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-09 22:11:00 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-09 22:11:01 INFO  log4j==:96 - Connection creat new button
+2022-02-09 22:11:01 INFO  log4j==:100 - Clicked Connection creat new button
+2022-02-15 07:09:36 INFO  log4j==:43 - launching chrome broswer
+2022-02-15 07:10:23 INFO  log4j==:53 - Browser Connection testing
+2022-02-15 07:10:41 INFO  log4j==:67 - Selecting TC
+2022-02-15 07:10:49 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-15 07:10:50 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-15 07:10:51 INFO  log4j==:96 - Connection creat new button
+2022-02-15 07:10:51 INFO  log4j==:100 - Clicked Connection creat new button
+2022-02-15 07:12:37 INFO  log4j==:54 - TC Selected
+2022-02-15 07:23:38 INFO  log4j==:43 - launching chrome broswer
+2022-02-15 07:24:26 INFO  log4j==:53 - Browser Connection testing
+2022-02-15 07:24:44 INFO  log4j==:67 - Selecting TC
+2022-02-15 07:24:52 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-15 07:24:53 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-15 07:24:54 INFO  log4j==:96 - Connection creat new button
+2022-02-15 07:24:54 INFO  log4j==:102 - Clicked Connection creat new button
+2022-02-15 07:28:49 INFO  log4j==:43 - launching chrome broswer
+2022-02-15 07:29:35 INFO  log4j==:53 - Browser Connection testing
+2022-02-15 07:29:54 INFO  log4j==:67 - Selecting TC
+2022-02-15 07:30:02 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-15 07:30:03 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-15 07:30:04 INFO  log4j==:96 - Connection creat new button
+2022-02-15 07:30:04 INFO  log4j==:102 - Clicked Connection creat new button
+2022-02-15 07:31:58 INFO  log4j==:43 - launching chrome broswer
+2022-02-15 07:32:42 INFO  log4j==:53 - Browser Connection testing
+2022-02-15 07:33:01 INFO  log4j==:67 - Selecting TC
+2022-02-15 07:33:09 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-15 07:33:10 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-15 07:33:11 INFO  log4j==:96 - Connection creat new button
+2022-02-15 07:33:11 INFO  log4j==:102 - Clicked Connection creat new button
+2022-02-15 07:33:14 INFO  log4j==:114 - Selecting Browser
+2022-02-15 07:35:16 INFO  log4j==:43 - launching chrome broswer
+2022-02-15 07:36:00 INFO  log4j==:53 - Browser Connection testing
+2022-02-15 07:36:18 INFO  log4j==:67 - Selecting TC
+2022-02-15 07:36:26 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-15 07:36:27 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-15 07:36:28 INFO  log4j==:96 - Connection creat new button
+2022-02-15 07:36:28 INFO  log4j==:102 - Clicked Connection creat new button
+2022-02-15 07:36:31 INFO  log4j==:114 - Selecting Browser
+2022-02-15 07:40:29 INFO  log4j==:43 - launching chrome broswer
+2022-02-15 07:41:14 INFO  log4j==:53 - Browser Connection testing
+2022-02-15 07:41:32 INFO  log4j==:67 - Selecting TC
+2022-02-15 07:41:40 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-15 07:41:41 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-15 07:41:42 INFO  log4j==:96 - Connection creat new button
+2022-02-15 07:41:42 INFO  log4j==:102 - Clicked Connection creat new button
+2022-02-15 07:41:46 INFO  log4j==:114 - Selecting Browser
+2022-02-15 07:41:46 INFO  log4j==:130 - Normal Connection Created
+2022-02-15 07:42:42 INFO  log4j==:43 - launching chrome broswer
+2022-02-15 07:43:26 INFO  log4j==:53 - Browser Connection testing
+2022-02-15 07:43:45 INFO  log4j==:67 - Selecting TC
+2022-02-15 07:43:53 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-15 07:43:54 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-15 07:43:55 INFO  log4j==:96 - Connection creat new button
+2022-02-15 07:43:56 INFO  log4j==:102 - Clicked Connection creat new button
+2022-02-15 07:43:59 INFO  log4j==:114 - Selecting Browser
+2022-02-15 07:44:00 INFO  log4j==:130 - Normal Connection Created
+2022-02-21 15:14:25 INFO  log4j==:43 - launching chrome broswer
+2022-02-21 15:15:07 INFO  log4j==:53 - Browser Connection testing
+2022-02-21 15:15:24 INFO  log4j==:67 - Selecting TC
+2022-02-21 15:15:32 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-21 15:15:33 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-21 15:15:33 INFO  log4j==:96 - Connection creat new button
+2022-02-21 15:15:34 INFO  log4j==:102 - Clicked Connection creat new button
+2022-02-21 15:15:37 INFO  log4j==:114 - Selecting Browser
+2022-02-21 15:15:38 INFO  log4j==:130 - Normal Connection Created
+2022-02-21 15:18:08 INFO  log4j==:43 - launching chrome broswer
+2022-02-21 15:18:48 INFO  log4j==:53 - Browser Connection testing
+2022-02-21 15:19:04 INFO  log4j==:67 - Selecting TC
+2022-02-21 15:19:12 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-21 15:19:13 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-21 15:19:14 INFO  log4j==:96 - Connection creat new button
+2022-02-21 15:19:14 INFO  log4j==:102 - Clicked Connection creat new button
+2022-02-21 15:19:17 INFO  log4j==:114 - Selecting Browser
+2022-02-21 15:19:18 INFO  log4j==:128 - Normal Connection Created
+2022-02-21 15:19:24 INFO  log4j==:142 - Selecting Browser
+2022-02-21 15:19:29 INFO  log4j==:162 - Kisok Browser connection created
+2022-02-21 15:19:33 INFO  log4j==:172 - TaskManagemnet click
+2022-02-21 15:19:39 INFO  log4j==:182 - Screenshot taken
+2022-02-21 15:20:12 INFO  log4j==:43 - launching chrome broswer
+2022-02-21 15:20:54 INFO  log4j==:53 - Browser Connection testing
+2022-02-21 15:21:10 INFO  log4j==:67 - Selecting TC
+2022-02-21 15:21:18 INFO  log4j==:75 - Looking for Connection Manager
+2022-02-21 15:21:19 INFO  log4j==:92 - Clicked on Connection Manager
+2022-02-21 15:21:20 INFO  log4j==:96 - Connection creat new button
+2022-02-21 15:21:20 INFO  log4j==:102 - Clicked Connection creat new button
+2022-02-21 15:21:23 INFO  log4j==:114 - Selecting Browser
+2022-02-21 15:21:24 INFO  log4j==:128 - Normal Connection Created
+2022-02-21 15:21:31 INFO  log4j==:142 - Selecting Browser
+2022-02-21 15:21:36 INFO  log4j==:162 - Kisok Browser connection created
+2022-02-21 15:21:40 INFO  log4j==:172 - TaskManagemnet click
+2022-02-21 15:21:45 INFO  log4j==:182 - Screenshot taken
+2022-02-21 15:22:59 INFO  log4j==:54 - TC Selected
+2022-02-21 15:35:29 INFO  log4j==:54 - TC Selected
+2022-02-21 15:43:06 INFO  log4j==:54 - TC Selected
+2022-02-21 19:13:29 INFO  log4j==:54 - TC Selected
+2022-02-21 19:13:54 INFO  log4j==:80 - New Upgrade Process
+2022-02-21 19:14:04 INFO  log4j==:98 - Select upgrade patch
+2022-02-21 19:19:26 INFO  log4j==:54 - TC Selected
+2022-02-21 19:19:36 INFO  log4j==:78 - New Upgrade Process
+2022-02-21 19:19:46 INFO  log4j==:96 - Select upgrade patch
+2022-02-21 19:19:46 INFO  log4j==:100 - Patch is selected
+2022-02-21 19:19:51 INFO  log4j==:110 - Patch uploaded Successfully
+2022-02-21 19:22:30 INFO  log4j==:54 - TC Selected
+2022-02-21 19:22:40 INFO  log4j==:78 - New Upgrade Process
+2022-02-21 19:22:44 INFO  log4j==:96 - Select upgrade patch
+2022-02-21 19:22:44 INFO  log4j==:100 - Patch is selected
+2022-02-21 19:22:46 INFO  log4j==:110 - Patch uploaded Successfully
+2022-02-21 19:38:06 INFO  log4j==:43 - launching chrome broswer
+2022-02-21 19:38:46 INFO  log4j==:53 - Browser Connection testing
+2022-02-21 19:39:03 INFO  log4j==:69 - Selecting TC
+2022-02-21 19:39:11 INFO  log4j==:77 - Looking for Connection Manager
+2022-02-21 19:39:12 INFO  log4j==:94 - Clicked on Connection Manager
+2022-02-21 19:39:13 INFO  log4j==:98 - Connection creat new button
+2022-02-21 19:39:13 INFO  log4j==:104 - Clicked Connection creat new button
+2022-02-21 19:39:16 INFO  log4j==:116 - Selecting Browser
+2022-02-21 19:39:17 INFO  log4j==:130 - Normal Connection Created
+2022-02-21 19:39:23 INFO  log4j==:144 - Selecting Browser
+2022-02-21 19:39:28 INFO  log4j==:164 - Kisok Browser connection created
+2022-02-21 19:39:32 INFO  log4j==:174 - TaskManagemnet click
+2022-02-21 19:39:37 INFO  log4j==:184 - Screenshot taken
+2022-02-21 19:39:38 INFO  log4j==:189 - ****************************** Browser is closed *****************************************
+2022-02-21 19:50:34 INFO  log4j==:31 - Send Message testing
+2022-02-21 19:52:27 INFO  log4j==:31 - Send Message testing
+2022-02-21 20:07:40 INFO  log4j==:31 - Send Message testing
+2022-02-21 20:08:00 INFO  log4j==:43 - Right click on TC
+2022-02-21 20:08:07 INFO  log4j==:59 - Message Send on TC
+2022-02-21 20:08:09 INFO  log4j==:65 - Clicked on close button
+2022-02-21 20:36:17 INFO  log4j==:30 - launching chrome broswer
+2022-02-21 20:37:00 INFO  log4j==:39 - Browser Connection testing
+2022-02-21 20:37:17 INFO  log4j==:51 - Selecting TC
+2022-02-21 20:37:25 INFO  log4j==:59 - Looking for Connection Manager
+2022-02-21 20:37:26 INFO  log4j==:76 - Clicked on Connection Manager
+2022-02-21 20:37:26 INFO  log4j==:80 - Connection creat new button
+2022-02-21 20:37:26 INFO  log4j==:84 - Clicked Connection creat new button
+2022-02-21 20:37:30 INFO  log4j==:96 - Selecting RDesktop
+2022-02-21 20:39:38 INFO  log4j==:30 - launching chrome broswer
+2022-02-21 20:40:29 INFO  log4j==:39 - Browser Connection testing
+2022-02-21 20:40:46 INFO  log4j==:51 - Selecting TC
+2022-02-21 20:40:54 INFO  log4j==:59 - Looking for Connection Manager
+2022-02-21 20:40:54 INFO  log4j==:76 - Clicked on Connection Manager
+2022-02-21 20:40:55 INFO  log4j==:80 - Connection creat new button
+2022-02-21 20:40:56 INFO  log4j==:84 - Clicked Connection creat new button
+2022-02-21 20:40:59 INFO  log4j==:96 - Selecting RDesktop
+2022-02-21 20:42:40 INFO  log4j==:30 - launching chrome broswer
+2022-02-21 20:43:21 INFO  log4j==:39 - Browser Connection testing
+2022-02-21 20:43:37 INFO  log4j==:51 - Selecting TC
+2022-02-21 20:43:45 INFO  log4j==:59 - Looking for Connection Manager
+2022-02-21 20:43:46 INFO  log4j==:76 - Clicked on Connection Manager
+2022-02-21 20:43:47 INFO  log4j==:80 - Connection creat new button
+2022-02-21 20:43:47 INFO  log4j==:84 - Clicked Connection creat new button
+2022-02-21 20:43:50 INFO  log4j==:96 - Selecting RDesktop
+2022-02-21 20:46:27 INFO  log4j==:31 - launching chrome broswer
+2022-02-21 20:47:06 INFO  log4j==:40 - Browser Connection testing
+2022-02-21 20:47:22 INFO  log4j==:52 - Selecting TC
+2022-02-21 20:47:30 INFO  log4j==:60 - Looking for Connection Manager
+2022-02-21 20:47:31 INFO  log4j==:77 - Clicked on Connection Manager
+2022-02-21 20:47:32 INFO  log4j==:81 - Connection creat new button
+2022-02-21 20:47:32 INFO  log4j==:85 - Clicked Connection creat new button
+2022-02-21 20:47:35 INFO  log4j==:97 - Selecting RDesktop
+2022-02-21 20:49:31 INFO  log4j==:31 - launching chrome broswer
+2022-02-21 20:50:13 INFO  log4j==:40 - Browser Connection testing
+2022-02-21 20:50:29 INFO  log4j==:52 - Selecting TC
+2022-02-21 20:50:37 INFO  log4j==:60 - Looking for Connection Manager
+2022-02-21 20:50:38 INFO  log4j==:77 - Clicked on Connection Manager
+2022-02-21 20:50:39 INFO  log4j==:81 - Connection creat new button
+2022-02-21 20:50:39 INFO  log4j==:85 - Clicked Connection creat new button
+2022-02-21 20:50:42 INFO  log4j==:97 - Selecting RDesktop
+2022-02-24 15:44:42 INFO  log4j==:31 - launching chrome broswer
+2022-02-24 19:53:33 INFO  log4j==:31 - launching chrome broswer
+2022-02-24 20:05:54 INFO  log4j==:31 - launching chrome broswer
+2022-02-24 20:06:31 INFO  log4j==:40 - Browser Connection testing
+2022-02-24 20:22:14 INFO  log4j==:44 - launching chrome broswer
+2022-02-24 20:22:52 INFO  log4j==:54 - Browser Connection testing
+2022-02-24 20:22:57 INFO  log4j==:188 - ****************************** Browser is closed *****************************************
+2022-02-24 20:24:57 INFO  log4j==:44 - launching chrome broswer
+2022-02-24 20:25:34 INFO  log4j==:54 - Browser Connection testing
+2022-02-24 20:25:46 INFO  log4j==:68 - Selecting TC
+2022-02-24 20:25:54 INFO  log4j==:76 - Looking for Connection Manager
+2022-02-24 20:25:55 INFO  log4j==:93 - Clicked on Connection Manager
+2022-02-24 20:25:56 INFO  log4j==:97 - Connection creat new button
+2022-02-24 20:26:23 INFO  log4j==:103 - Clicked Connection creat new button
+2022-02-24 20:26:26 INFO  log4j==:115 - Selecting Browser
+2022-02-24 20:26:26 INFO  log4j==:188 - ****************************** Browser is closed *****************************************
+2022-02-24 20:28:17 INFO  log4j==:44 - launching chrome broswer
+2022-02-24 20:28:54 INFO  log4j==:54 - Browser Connection testing
+2022-02-24 20:29:07 INFO  log4j==:70 - Selecting TC
+2022-02-24 20:29:15 INFO  log4j==:78 - Looking for Connection Manager
+2022-02-24 20:29:16 INFO  log4j==:95 - Clicked on Connection Manager
+2022-02-24 20:29:17 INFO  log4j==:99 - Connection creat new button
+2022-02-24 20:29:17 INFO  log4j==:105 - Clicked Connection creat new button
+2022-02-24 20:29:20 INFO  log4j==:115 - Selecting Browser
+2022-02-24 20:29:20 INFO  log4j==:188 - ****************************** Browser is closed *****************************************
+2022-02-24 20:34:36 INFO  log4j==:44 - launching chrome broswer
+2022-02-24 20:35:13 INFO  log4j==:54 - Browser Connection testing
+2022-02-24 20:35:26 INFO  log4j==:70 - Selecting TC
+2022-02-24 20:35:34 INFO  log4j==:78 - Looking for Connection Manager
+2022-02-24 20:35:35 INFO  log4j==:95 - Clicked on Connection Manager
+2022-02-24 20:35:35 INFO  log4j==:99 - Connection creat new button
+2022-02-24 20:35:36 INFO  log4j==:105 - Clicked Connection creat new button
+2022-02-24 20:35:39 INFO  log4j==:115 - Selecting Browser
+2022-02-24 20:35:39 INFO  log4j==:188 - ****************************** Browser is closed *****************************************
+2022-02-24 21:12:24 INFO  log4j==:44 - launching chrome broswer
+2022-02-24 21:13:01 INFO  log4j==:54 - Browser Connection testing
+2022-02-24 21:13:14 INFO  log4j==:70 - Selecting TC
+2022-02-24 21:13:22 INFO  log4j==:78 - Looking for Connection Manager
+2022-02-24 21:13:23 INFO  log4j==:95 - Clicked on Connection Manager
+2022-02-24 21:13:24 INFO  log4j==:99 - Connection creat new button
+2022-02-24 21:13:24 INFO  log4j==:105 - Clicked Connection creat new button
+2022-02-24 21:13:27 INFO  log4j==:115 - Selecting Browser
+2022-02-24 21:13:28 INFO  log4j==:129 - Normal Connection Created
+2022-02-24 21:13:34 INFO  log4j==:143 - Selecting Browser
+2022-02-24 21:13:39 INFO  log4j==:163 - Kisok Browser connection created
+2022-02-24 21:13:43 INFO  log4j==:173 - TaskManagemnet click
+2022-02-24 21:13:49 INFO  log4j==:183 - Screenshot taken
+2022-02-24 21:13:49 INFO  log4j==:188 - ****************************** Browser is closed *****************************************
+2022-02-24 21:27:49 INFO  log4j==:44 - launching chrome broswer
+2022-02-24 21:28:26 INFO  log4j==:54 - Browser Connection testing
+2022-02-24 21:28:39 INFO  log4j==:70 - Selecting TC
+2022-02-24 21:28:47 INFO  log4j==:78 - Looking for Connection Manager
+2022-02-24 21:28:48 INFO  log4j==:95 - Clicked on Connection Manager
+2022-02-24 21:28:48 INFO  log4j==:99 - Connection creat new button
+2022-02-24 21:28:49 INFO  log4j==:105 - Clicked Connection creat new button
+2022-02-24 21:28:52 INFO  log4j==:115 - Selecting Browser
+2022-02-24 21:28:53 INFO  log4j==:129 - Normal Connection Created
+2022-02-24 21:28:59 INFO  log4j==:143 - Selecting Browser
+2022-02-24 21:29:04 INFO  log4j==:163 - Kisok Browser connection created
+2022-02-24 21:29:08 INFO  log4j==:173 - TaskManagemnet click
+2022-02-24 21:29:13 INFO  log4j==:183 - Screenshot taken
+2022-02-24 21:29:14 INFO  log4j==:188 - ****************************** Browser is closed *****************************************
+2022-02-24 21:34:57 INFO  log4j==:44 - launching chrome broswer
+2022-02-24 21:35:34 INFO  log4j==:54 - Browser Connection testing
+2022-02-24 21:35:47 INFO  log4j==:70 - Selecting TC
+2022-02-24 21:35:55 INFO  log4j==:78 - Looking for Connection Manager
+2022-02-24 21:35:56 INFO  log4j==:95 - Clicked on Connection Manager
+2022-02-24 21:35:56 INFO  log4j==:99 - Connection creat new button
+2022-02-24 21:35:57 INFO  log4j==:105 - Clicked Connection creat new button
+2022-02-24 21:36:00 INFO  log4j==:116 - Selecting Browser
+2022-02-24 21:36:01 INFO  log4j==:130 - Normal Connection Created
+2022-02-24 21:36:07 INFO  log4j==:144 - Selecting Browser
+2022-02-24 21:36:12 INFO  log4j==:164 - Kisok Browser connection created
+2022-02-24 21:36:16 INFO  log4j==:174 - TaskManagemnet click
+2022-02-24 21:36:21 INFO  log4j==:184 - Screenshot taken
+2022-02-24 21:36:21 INFO  log4j==:189 - ****************************** Browser is closed *****************************************
+2022-02-25 15:21:22 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:22:02 INFO  log4j==:54 - Browser Connection testing
+2022-02-25 15:22:17 INFO  log4j==:189 - ****************************** Browser is closed *****************************************
+2022-02-25 15:30:41 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:31:56 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:33:31 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:44:39 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:44:53 INFO  log4j==:54 - Browser Connection testing
+2022-02-25 15:48:08 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:49:28 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:51:40 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:52:27 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:54:26 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:55:28 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:56:17 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:58:43 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 15:59:22 INFO  log4j==:54 - Browser Connection testing
+2022-02-25 15:59:37 INFO  log4j==:189 - ****************************** Browser is closed *****************************************
+2022-02-25 16:00:23 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 16:01:01 INFO  log4j==:54 - Browser Connection testing
+2022-02-25 16:01:18 INFO  log4j==:70 - Selecting TC
+2022-02-25 16:01:26 INFO  log4j==:78 - Looking for Connection Manager
+2022-02-25 16:01:27 INFO  log4j==:95 - Clicked on Connection Manager
+2022-02-25 16:01:27 INFO  log4j==:99 - Connection creat new button
+2022-02-25 16:01:28 INFO  log4j==:105 - Clicked Connection creat new button
+2022-02-25 16:01:31 INFO  log4j==:116 - Selecting Browser
+2022-02-25 16:01:32 INFO  log4j==:130 - Normal Connection Created
+2022-02-25 16:01:38 INFO  log4j==:144 - Selecting Browser
+2022-02-25 16:01:43 INFO  log4j==:164 - Kisok Browser connection created
+2022-02-25 16:01:47 INFO  log4j==:174 - TaskManagemnet click
+2022-02-25 16:01:52 INFO  log4j==:184 - Screenshot taken
+2022-02-25 16:01:53 INFO  log4j==:189 - ****************************** Browser is closed *****************************************
+2022-02-25 16:17:20 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 16:17:30 INFO  log4j==:54 - Browser Connection testing
+2022-02-25 16:24:33 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 16:25:12 INFO  log4j==:54 - Browser Connection testing
+2022-02-25 16:26:07 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 16:26:46 INFO  log4j==:54 - Browser Connection testing
+2022-02-25 16:27:18 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 16:27:58 INFO  log4j==:54 - Browser Connection testing
+2022-02-25 16:28:15 INFO  log4j==:70 - Selecting TC
+2022-02-25 16:28:23 INFO  log4j==:78 - Looking for Connection Manager
+2022-02-25 16:28:24 INFO  log4j==:95 - Clicked on Connection Manager
+2022-02-25 16:28:24 INFO  log4j==:99 - Connection creat new button
+2022-02-25 16:28:24 INFO  log4j==:105 - Clicked Connection creat new button
+2022-02-25 16:28:28 INFO  log4j==:116 - Selecting Browser
+2022-02-25 16:28:28 INFO  log4j==:130 - Normal Connection Created
+2022-02-25 16:28:35 INFO  log4j==:144 - Selecting Browser
+2022-02-25 16:28:40 INFO  log4j==:164 - Kisok Browser connection created
+2022-02-25 16:28:44 INFO  log4j==:174 - TaskManagemnet click
+2022-02-25 16:28:49 INFO  log4j==:184 - Screenshot taken
+2022-02-25 16:28:51 INFO  log4j==:189 - ****************************** Browser is closed *****************************************
+2022-02-25 16:43:47 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 16:44:27 INFO  log4j==:54 - Browser Connection testing
+2022-02-25 16:44:44 INFO  log4j==:70 - Selecting TC
+2022-02-25 16:44:52 INFO  log4j==:78 - Looking for Connection Manager
+2022-02-25 16:44:52 INFO  log4j==:95 - Clicked on Connection Manager
+2022-02-25 16:44:53 INFO  log4j==:99 - Connection creat new button
+2022-02-25 16:44:53 INFO  log4j==:105 - Clicked Connection creat new button
+2022-02-25 16:44:57 INFO  log4j==:116 - Selecting Browser
+2022-02-25 16:44:57 INFO  log4j==:130 - Normal Connection Created
+2022-02-25 16:45:04 INFO  log4j==:144 - Selecting Browser
+2022-02-25 16:45:09 INFO  log4j==:164 - Kisok Browser connection created
+2022-02-25 16:45:13 INFO  log4j==:174 - TaskManagemnet click
+2022-02-25 16:45:18 INFO  log4j==:184 - Screenshot taken
+2022-02-25 16:45:18 INFO  log4j==:189 - ****************************** Browser is closed *****************************************
+2022-02-25 16:46:19 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 16:46:57 INFO  log4j==:54 - Browser Connection testing
+2022-02-25 16:47:14 INFO  log4j==:70 - Selecting TC
+2022-02-25 16:47:22 INFO  log4j==:78 - Looking for Connection Manager
+2022-02-25 16:47:23 INFO  log4j==:95 - Clicked on Connection Manager
+2022-02-25 16:47:23 INFO  log4j==:99 - Connection creat new button
+2022-02-25 16:47:23 INFO  log4j==:105 - Clicked Connection creat new button
+2022-02-25 16:47:27 INFO  log4j==:116 - Selecting Browser
+2022-02-25 16:47:27 INFO  log4j==:130 - Normal Connection Created
+2022-02-25 16:47:34 INFO  log4j==:144 - Selecting Browser
+2022-02-25 16:47:39 INFO  log4j==:164 - Kisok Browser connection created
+2022-02-25 16:47:43 INFO  log4j==:174 - TaskManagemnet click
+2022-02-25 16:47:48 INFO  log4j==:184 - Screenshot taken
+2022-02-25 16:47:50 INFO  log4j==:189 - ****************************** Browser is closed *****************************************
+2022-02-25 16:52:08 INFO  log4j==:44 - launching chrome broswer
+2022-02-25 16:52:46 INFO  log4j==:54 - Browser Connection testing
+2022-02-25 16:53:03 INFO  log4j==:70 - Selecting TC
+2022-02-25 16:53:11 INFO  log4j==:78 - Looking for Connection Manager
+2022-02-25 16:53:11 INFO  log4j==:95 - Clicked on Connection Manager
+2022-02-25 16:53:12 INFO  log4j==:99 - Connection creat new button
+2022-02-25 16:53:12 INFO  log4j==:105 - Clicked Connection creat new button
+2022-02-25 16:53:16 INFO  log4j==:116 - Selecting Browser
+2022-02-25 16:53:16 INFO  log4j==:130 - Normal Connection Created
+2022-02-25 16:53:23 INFO  log4j==:144 - Selecting Browser
+2022-02-25 16:53:28 INFO  log4j==:164 - Kisok Browser connection created
+2022-02-25 16:53:32 INFO  log4j==:174 - TaskManagemnet click
+2022-02-25 16:53:37 INFO  log4j==:184 - Screenshot taken
+2022-02-25 16:53:37 INFO  log4j==:189 - ****************************** Browser is closed *****************************************
+2022-02-28 15:48:44 INFO  log4j==:31 - Send Message testing
+2022-02-28 15:49:04 INFO  log4j==:43 - Right click on TC
+2022-02-28 15:49:10 INFO  log4j==:59 - Message Send on TC
+2022-02-28 15:49:12 INFO  log4j==:65 - Clicked on close button
+2022-02-28 15:51:35 INFO  log4j==:31 - Send Message testing
+2022-02-28 15:51:54 INFO  log4j==:43 - Right click on TC
+2022-02-28 15:52:01 INFO  log4j==:59 - Message Send on TC
+2022-02-28 15:52:03 INFO  log4j==:65 - Clicked on close button
+2022-03-02 06:14:26 INFO  log4j==:31 - Send Message testing
+2022-03-02 06:14:46 INFO  log4j==:43 - Right click on TC
+2022-03-02 06:14:52 INFO  log4j==:59 - Message Send on TC
+2022-03-02 06:14:55 INFO  log4j==:65 - Clicked on close button
+2022-03-02 06:20:58 INFO  log4j==:31 - Send Message testing
+2022-03-02 06:21:18 INFO  log4j==:43 - Right click on TC
+2022-03-02 06:21:24 INFO  log4j==:59 - Message Send on TC
+2022-03-02 06:21:26 INFO  log4j==:65 - Clicked on close button
+2022-03-02 06:46:12 INFO  log4j==:31 - Send Message testing
+2022-03-02 06:46:32 INFO  log4j==:43 - Right click on TC
+2022-03-02 06:46:39 INFO  log4j==:59 - Message Send on TC
+2022-03-02 06:46:41 INFO  log4j==:65 - Clicked on close button
+2022-03-02 06:48:41 INFO  log4j==:31 - Send Message testing
+2022-03-02 06:49:01 INFO  log4j==:43 - Right click on TC
+2022-03-02 06:49:08 INFO  log4j==:59 - Message Send on TC
+2022-03-02 06:49:10 INFO  log4j==:65 - Clicked on close button
+2022-03-02 08:18:21 INFO  log4j==:31 - Send Message testing
+2022-03-02 08:18:40 INFO  log4j==:43 - Right click on TC
+2022-03-03 10:15:18 INFO  log4j==:32 - launching chrome broswer
+2022-03-03 10:16:00 INFO  log4j==:41 - Browser Connection testing
+2022-03-03 10:45:10 INFO  log4j==:32 - launching chrome broswer
+2022-03-03 10:54:52 INFO  log4j==:31 - Send Message testing
+2022-03-03 10:55:38 INFO  log4j==:31 - Send Message testing
+2022-03-03 10:57:51 INFO  log4j==:31 - Send Message testing
+2022-03-03 10:58:52 INFO  log4j==:31 - Send Message testing
+2022-03-03 11:13:20 INFO  log4j==:31 - Send Message testing
+2022-03-03 11:23:17 INFO  log4j==:31 - Send Message testing
+2022-03-03 11:25:09 INFO  log4j==:31 - Send Message testing
+2022-03-03 11:53:06 INFO  log4j==:31 - Send Message testing
+2022-03-23 06:00:04 INFO  log4j==:31 - Send Message testing
+2022-03-23 06:00:58 INFO  log4j==:31 - Send Message testing
+2022-04-07 06:33:33 INFO  log4j==:31 - Send Message testing
+2022-04-07 06:34:50 INFO  log4j==:31 - Send Message testing
+2022-04-07 06:35:37 INFO  log4j==:31 - Send Message testing
+2022-04-07 06:42:58 INFO  log4j==:31 - Send Message testing
+2022-04-07 06:49:39 INFO  log4j==:30 - Send Message testing
+2022-04-07 06:54:18 INFO  log4j==:30 - Send Message testing
+2022-04-07 06:56:53 INFO  log4j==:30 - Send Message testing
+2022-04-07 06:57:34 INFO  log4j==:30 - Send Message testing
+2022-04-07 06:57:59 INFO  log4j==:30 - Send Message testing
+2022-04-07 06:58:34 INFO  log4j==:30 - Send Message testing
+2022-04-07 07:01:27 INFO  log4j==:30 - Send Message testing
+2022-04-07 07:04:25 INFO  log4j==:30 - Send Message testing
+2022-04-07 07:06:00 INFO  log4j==:30 - Send Message testing
+2022-04-07 07:07:42 INFO  log4j==:30 - Send Message testing
+2022-04-07 07:13:20 INFO  log4j==:30 - Send Message testing
+2022-04-07 07:14:17 INFO  log4j==:30 - Send Message testing
+2022-04-07 07:16:34 INFO  log4j==:30 - Send Message testing
+2022-04-07 07:17:26 INFO  log4j==:30 - Send Message testing
+2022-04-07 07:18:42 INFO  log4j==:30 - Send Message testing
+2022-04-07 07:19:35 INFO  log4j==:30 - Send Message testing
+2022-04-07 07:21:04 INFO  log4j==:31 - Send Message testing
+2022-04-07 07:21:38 INFO  log4j==:43 - Right click on TC
+2022-04-07 07:21:45 INFO  log4j==:59 - Message Send on TC
+2022-04-07 07:21:47 INFO  log4j==:65 - Clicked on close button
+2022-04-07 07:27:40 INFO  log4j==:31 - Send Message testing
+2022-04-07 07:33:21 INFO  log4j==:31 - Send Message testing
+2022-04-07 07:34:00 INFO  log4j==:31 - Send Message testing
+2022-04-07 07:35:50 INFO  log4j==:31 - Send Message testing
+2022-04-07 11:06:03 INFO  log4j==:31 - Send Message testing
+2022-04-07 11:34:07 INFO  log4j==:31 - Send Message testing
+2022-04-07 11:34:59 INFO  log4j==:31 - Send Message testing
+2022-04-07 11:36:31 INFO  log4j==:31 - Send Message testing
+2022-04-07 11:36:58 INFO  log4j==:43 - Right click on TC
+2022-04-07 11:37:04 INFO  log4j==:59 - Message Send on TC
+2022-04-07 11:37:06 INFO  log4j==:65 - Clicked on close button
+2022-04-07 19:08:56 INFO  log4j==:31 - Send Message testing
+2022-04-07 19:09:25 INFO  log4j==:43 - Right click on TC
+2022-04-07 19:09:31 INFO  log4j==:59 - Message Send on TC
+2022-04-07 19:09:33 INFO  log4j==:65 - Clicked on close button
+2022-04-07 19:11:25 INFO  log4j==:31 - Send Message testing
+2022-04-07 19:11:50 INFO  log4j==:43 - Right click on TC
+2022-04-07 19:11:57 INFO  log4j==:59 - Message Send on TC
+2022-04-07 19:11:59 INFO  log4j==:65 - Clicked on close button
+2022-04-07 19:18:09 INFO  log4j==:31 - Send Message testing
+2022-04-07 19:18:35 INFO  log4j==:43 - Right click on TC
+2022-04-07 19:18:41 INFO  log4j==:59 - Message Send on TC
+2022-04-07 19:18:44 INFO  log4j==:65 - Clicked on close button
+2022-04-08 22:29:34 INFO  log4j==:31 - Send Message testing
+2022-04-08 22:30:25 INFO  log4j==:43 - Right click on TC
+2022-04-08 22:30:32 INFO  log4j==:59 - Message Send on TC
+2022-04-08 22:30:34 INFO  log4j==:65 - Clicked on close button
+2022-04-08 23:05:25 INFO  log4j==:31 - Send Message testing
+2022-04-08 23:06:02 INFO  log4j==:43 - Right click on TC
+2022-04-08 23:06:09 INFO  log4j==:59 - Message Send on TC
+2022-04-08 23:06:11 INFO  log4j==:65 - Clicked on close button
+2022-04-08 23:09:01 INFO  log4j==:31 - Send Message testing
+2022-04-08 23:09:29 INFO  log4j==:43 - Right click on TC
+2022-04-08 23:09:35 INFO  log4j==:59 - Message Send on TC
+2022-04-08 23:09:37 INFO  log4j==:65 - Clicked on close button
+2022-04-08 23:10:57 INFO  log4j==:31 - Send Message testing
+2022-04-08 23:11:24 INFO  log4j==:43 - Right click on TC
+2022-04-08 23:11:31 INFO  log4j==:59 - Message Send on TC
+2022-04-08 23:11:33 INFO  log4j==:65 - Clicked on close button
+2022-04-12 06:17:05 INFO  log4j==:31 - Send Message testing
+2022-04-12 06:18:21 INFO  log4j==:43 - Right click on TC
+2022-04-12 06:18:30 INFO  log4j==:59 - Message Send on TC
+2022-04-12 06:18:32 INFO  log4j==:65 - Clicked on close button
+2022-04-12 06:25:08 INFO  log4j==:31 - Send Message testing
+2022-04-12 06:26:12 INFO  log4j==:43 - Right click on TC
+2022-04-12 06:26:18 INFO  log4j==:59 - Message Send on TC
+2022-04-12 06:26:21 INFO  log4j==:65 - Clicked on close button
+2022-04-12 06:30:29 INFO  log4j==:31 - Send Message testing
+2022-04-12 06:30:55 INFO  log4j==:43 - Right click on TC
+2022-04-12 06:31:02 INFO  log4j==:59 - Message Send on TC
+2022-04-12 06:31:04 INFO  log4j==:65 - Clicked on close button
+2022-04-12 08:26:16 INFO  log4j==:31 - Send Message testing
+2022-04-12 08:26:58 INFO  log4j==:43 - Right click on TC
+2022-04-12 08:27:04 INFO  log4j==:59 - Message Send on TC
+2022-04-12 08:27:06 INFO  log4j==:65 - Clicked on close button
+2022-04-12 08:29:27 INFO  log4j==:31 - Send Message testing
+2022-04-12 08:29:55 INFO  log4j==:43 - Right click on TC
+2022-04-12 08:30:01 INFO  log4j==:59 - Message Send on TC
+2022-04-12 08:30:03 INFO  log4j==:65 - Clicked on close button
+2022-04-12 08:33:48 INFO  log4j==:31 - Send Message testing
+2022-04-12 08:34:20 INFO  log4j==:43 - Right click on TC
+2022-04-12 08:34:26 INFO  log4j==:59 - Message Send on TC
+2022-04-12 08:34:28 INFO  log4j==:65 - Clicked on close button
+2022-04-18 15:52:53 INFO  log4j==:31 - Send Message testing
+2022-04-18 15:55:59 INFO  log4j==:31 - Send Message testing
+2022-04-18 15:58:25 INFO  log4j==:31 - Send Message testing
+2022-04-18 16:02:21 INFO  log4j==:31 - Send Message testing
+2022-04-18 16:05:37 INFO  log4j==:31 - Send Message testing
+2022-04-18 16:11:42 INFO  log4j==:31 - Send Message testing
+2022-04-18 16:21:38 INFO  log4j==:31 - Send Message testing
+2022-04-18 16:48:13 INFO  log4j==:31 - Send Message testing
+2022-04-18 16:48:42 INFO  log4j==:43 - Right click on TC
+2022-04-18 16:48:49 INFO  log4j==:59 - Message Send on TC
+2022-04-18 16:48:51 INFO  log4j==:65 - Clicked on close button

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-18T16:48:06 IST" name="LTMlogin" finished-at="2022-04-18T16:49:07 IST" duration-ms="61063">
+    <groups>
+    </groups>
+    <test started-at="2022-04-18T16:48:06 IST" name="Test Basics 1" finished-at="2022-04-18T16:49:07 IST" duration-ms="61063">
+      <class name="ltm_testcases.LTM_Sendmessage">
+        <test-method is-config="true" signature="bf()[pri:0, instance:ltm_testcases.LTM_Sendmessage@5ffead27]" started-at="2022-04-18T16:48:06 IST" name="bf" finished-at="2022-04-18T16:48:06 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ltm_testcases.LTM_Sendmessage@5ffead27]" started-at="2022-04-18T16:48:06 IST" name="setUp" finished-at="2022-04-18T16:48:13 IST" duration-ms="6194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LTM_Send_Message()[pri:0, instance:ltm_testcases.LTM_Sendmessage@5ffead27]" started-at="2022-04-18T16:48:13 IST" name="LTM_Send_Message" finished-at="2022-04-18T16:49:05 IST" duration-ms="52789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LTM_Send_Message -->
+        <test-method is-config="true" signature="closesetup()[pri:0, instance:ltm_testcases.LTM_Sendmessage@5ffead27]" started-at="2022-04-18T16:49:05 IST" name="closesetup" finished-at="2022-04-18T16:49:07 IST" duration-ms="2056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closesetup -->
+      </class> <!-- ltm_testcases.LTM_Sendmessage -->
+    </test> <!-- Test Basics 1 -->
+  </suite> <!-- LTMlogin -->
+</testng-results>
