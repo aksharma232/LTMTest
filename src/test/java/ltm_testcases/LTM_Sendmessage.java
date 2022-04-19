@@ -19,6 +19,7 @@ public class LTM_Sendmessage extends LTM_Baseclass
 	@BeforeMethod
 	public void setUp() throws IOException, InterruptedException
 	{
+		//To Launch Browser
 		Launchbrowser();
 		ltmlogin = new LTMLogin();
 		ltmlogin.login();
