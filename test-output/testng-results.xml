@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-04-12T08:25:30 IST" name="LTMlogin" finished-at="2022-04-12T08:27:24 IST" duration-ms="113715">
+  <suite started-at="2022-04-21T06:35:29 IST" name="LTMlogin" finished-at="2022-04-21T06:36:21 IST" duration-ms="52537">
     <groups>
     </groups>
-    <test started-at="2022-04-12T08:25:30 IST" name="Test Basics 1" finished-at="2022-04-12T08:27:24 IST" duration-ms="113715">
+    <test started-at="2022-04-21T06:35:29 IST" name="Test Basics 1" finished-at="2022-04-21T06:36:21 IST" duration-ms="52537">
       <class name="ltm_testcases.LTM_Sendmessage">
-        <test-method is-config="true" signature="bf()[pri:0, instance:ltm_testcases.LTM_Sendmessage@78691363]" started-at="2022-04-12T08:25:30 IST" name="bf" finished-at="2022-04-12T08:25:30 IST" duration-ms="45" status="PASS">
+        <test-method is-config="true" signature="bf()[pri:0, instance:ltm_testcases.LTM_Sendmessage@78691363]" started-at="2022-04-21T06:35:29 IST" name="bf" finished-at="2022-04-21T06:35:29 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bf -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:ltm_testcases.LTM_Sendmessage@78691363]" started-at="2022-04-12T08:25:30 IST" name="setUp" finished-at="2022-04-12T08:26:16 IST" duration-ms="45274" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ltm_testcases.LTM_Sendmessage@78691363]" started-at="2022-04-21T06:35:29 IST" name="setUp" finished-at="2022-04-21T06:35:35 IST" duration-ms="5693" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="LTM_Send_Message()[pri:0, instance:ltm_testcases.LTM_Sendmessage@78691363]" started-at="2022-04-12T08:26:16 IST" name="LTM_Send_Message" finished-at="2022-04-12T08:27:21 IST" duration-ms="65086" status="PASS">
+        <test-method signature="LTM_Send_Message()[pri:0, instance:ltm_testcases.LTM_Sendmessage@78691363]" started-at="2022-04-21T06:35:35 IST" name="LTM_Send_Message" finished-at="2022-04-21T06:36:19 IST" duration-ms="44759" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- LTM_Send_Message -->
-        <test-method is-config="true" signature="closesetup()[pri:0, instance:ltm_testcases.LTM_Sendmessage@78691363]" started-at="2022-04-12T08:27:21 IST" name="closesetup" finished-at="2022-04-12T08:27:24 IST" duration-ms="3267" status="PASS">
+        <test-method is-config="true" signature="closesetup()[pri:0, instance:ltm_testcases.LTM_Sendmessage@78691363]" started-at="2022-04-21T06:36:19 IST" name="closesetup" finished-at="2022-04-21T06:36:21 IST" duration-ms="2083" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closesetup -->

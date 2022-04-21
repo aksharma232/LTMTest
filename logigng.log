@@ -626,3 +626,19 @@
 2022-04-18 16:48:42 INFO  log4j==:43 - Right click on TC
 2022-04-18 16:48:49 INFO  log4j==:59 - Message Send on TC
 2022-04-18 16:48:51 INFO  log4j==:65 - Clicked on close button
+2022-04-20 06:21:46 INFO  log4j==:32 - Send Message testing
+2022-04-20 06:25:01 INFO  log4j==:32 - Send Message testing
+2022-04-20 08:18:37 INFO  log4j==:32 - Send Message testing
+2022-04-20 08:21:07 INFO  log4j==:32 - Send Message testing
+2022-04-20 08:24:03 INFO  log4j==:32 - Send Message testing
+2022-04-20 08:26:11 INFO  log4j==:32 - Send Message testing
+2022-04-20 08:29:41 INFO  log4j==:32 - Send Message testing
+2022-04-20 08:30:08 INFO  log4j==:44 - Right click on TC
+2022-04-20 08:30:15 INFO  log4j==:60 - Message Send on TC
+2022-04-20 08:30:17 INFO  log4j==:66 - Clicked on close button
+2022-04-21 06:28:09 INFO  log4j==:32 - Send Message testing
+2022-04-21 06:30:54 INFO  log4j==:32 - Send Message testing
+2022-04-21 06:35:35 INFO  log4j==:32 - Send Message testing
+2022-04-21 06:36:00 INFO  log4j==:44 - Right click on TC
+2022-04-21 06:36:07 INFO  log4j==:60 - Message Send on TC
+2022-04-21 06:36:09 INFO  log4j==:66 - Clicked on close button
